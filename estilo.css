@@ -1,3 +1,10 @@
 #text{
     margin-left: 3cm
 }
+table, td{ 
+    border:2px solid gray;
+    border-collapse: collapse;
+
+}
+th{
+    background: yellow;
